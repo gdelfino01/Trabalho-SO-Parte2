@@ -1,0 +1,11 @@
+proc1,0,20
+proc2,5,40
+proc3,10,15
+proc4,8,25
+proc5,12,30
+proc6,7,35
+proc7,9,45
+proc8,15,50
+proc9,20,10
+proc10,3,55
+
